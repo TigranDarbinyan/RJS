@@ -1,0 +1,23 @@
+{
+  "name": "rjs",
+  "version": "1.0.0",
+  "description": "RJS project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TigranDarbinyan/RJS.git"
+  },
+  "keywords": [
+    "test",
+    "rjs"
+  ],
+  "author": "Tigran Darbinyan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TigranDarbinyan/RJS/issues"
+  },
+  "homepage": "https://github.com/TigranDarbinyan/RJS#readme"
+}
